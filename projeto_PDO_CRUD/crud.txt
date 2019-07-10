@@ -1,0 +1,25 @@
+===Base de Dados crud
+
+== Estrutura da tabela cadastro
+
+|------
+|Coluna|Tipo|Nulo|Predefinido
+|------
+|//**id**//|int(11)|Não|
+|nome|varchar(90)|Não|
+|sexo|varchar(30)|Não|
+|cidade|varchar(50)|Não|
+|email|varchar(100)|Não|
+|estado|varchar(50)|Não|
+== Extraindo dados da tabela cadastro
+
+|92|Megaman|Outros|email123@.com|megatron city|SÃ£o Paulo
+== Estrutura da tabela despesas
+
+|------
+|Coluna|Tipo|Nulo|Predefinido
+|------
+|nomet|varchar(255)|Não|
+|//**id**//|int(11)|Não|
+== Extraindo dados da tabela despesas
+
